@@ -5,3 +5,6 @@ Full stack website designed for reporting local incidents, offering local resour
 
 I helped put togther the information flow diagram and the enhanced entity-relationship diagram found in Phase 1.
 In Phase 3, I worked largely on the frontend of the website inside React and on the Resource Results, Resource Report and New Incident pages.
+
+# Original GitHub Repo
+Found in oraganization CIS197 Server-Side Web Development but is private. This is a copy.
